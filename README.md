@@ -7,6 +7,6 @@ Write a character sheet for a superhero with shadow powers but violent and genoc
 ```
 Next is creating the first chapter of a book, between 2000-4000 words. This tests its ability to take information from the previous output and make it coherent
 ```markdown
-Alright, now begin writing the first chapter of an origin story. Do not forget dialogue. Also, the boy is an orphan and lives on the streets mainly.
+Alright, now begin writing the first chapter of an origin story. Do not forget dialogue. Also, the boy is an orphan and lives on the streets mainly. It should be between 2000-4000
 ```
 **optional** We can then use gpt-4 to evaluate if we want to. 
